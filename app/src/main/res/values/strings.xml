@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Videomegoszto</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="uploader">Feltöltő</string>
+    <string name="watcher">Megtekintő</string>
+    <string name="questLogin">Bejelentkezés vendégként</string>
+    <string name="video_description">Videó leírás</string>
+    <string name="loginWithGoogle">Bejelentkezés Google fiókkal</string>
+    <string name="title1">Jó Reggelt!</string>
+    <string name="title2">Forgalom</string>
+    <string name="vide_megoszt">Videómegosztó</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>

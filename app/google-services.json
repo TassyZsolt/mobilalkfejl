@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295670520726",
+    "project_id": "videomegoszto-8457e",
+    "storage_bucket": "videomegoszto-8457e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295670520726:android:111c57b002538e5a9f1bb7",
+        "android_client_info": {
+          "package_name": "com.example.videomegoszto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVMKRpSuMGUV4dYWZlpgt6O0onsQ27jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
